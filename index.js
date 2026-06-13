@@ -12,8 +12,7 @@ const https = require("https");
 // ============================================================
 // FORGE SUPPORT: Add Minecraft protocol patch for Forge handshake
 // ============================================================
-const { autoVersionForge } = require("minecraft-protocol-forge");
-
+const { autoVersionForge } = require("@tcortega/minecraft-protocol-forge");
 // ============================================================
 // EXPRESS SERVER - Keep Render/Aternos alive
 // ============================================================
