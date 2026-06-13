@@ -1,7 +1,7 @@
 {
   "name": "minecraft-afk-bot",
   "version": "2.2",
-  "description": "Robust AFK bot for Minecraft servers with infinite uptime and Forge support.",
+  "description": "Robust AFK bot for Minecraft servers with infinite uptime.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -13,7 +13,6 @@
     "express": "^4.18.1",
     "minecraft-data": "^3.103.0",
     "mineflayer": "^4.34.0",
-    "mineflayer-pathfinder": "^2.1.1",
-    "@tcortega/minecraft-protocol-forge": "^1.2.0"
+    "mineflayer-pathfinder": "^2.1.1"
   }
 }
