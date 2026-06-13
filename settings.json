@@ -8,7 +8,7 @@
   "server": {
     "ip": "ifreaku.play.hosting",
     "port": 38314,
-    "version": "",
+    "version": "26.1.1",
     "try-creative": false
   },
   "position": {
