@@ -14,6 +14,6 @@
     "minecraft-data": "^3.103.0",
     "mineflayer": "^4.34.0",
     "mineflayer-pathfinder": "^2.1.1",
-    "minecraft-protocol-forge": "^1.1.0"
+    "@tcortega/minecraft-protocol-forge": "^1.2.0"
   }
 }
