@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "ifreaku.play.hosting",
+    "port": 12489,
     "version": "",
     "try-creative": false
   },
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1515161421309280471/li2xG__YevtFjf-qvzHpjt5SniY0QgbzRo59ZqXiCYpCtQAPFlOjQlBo1Wchcvxoqfsl",
     "events": {
       "connect": true,
       "disconnect": true,
